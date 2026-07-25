@@ -1,0 +1,4 @@
+payment_id,claim_id,payment_amount,payment_date,payment_status
+PAY001,CL001,75000,2026-07-10,Paid
+PAY002,CL002,500000,2026-07-12,Paid
+PAY003,CL004,90000,2026-07-15,Paid
