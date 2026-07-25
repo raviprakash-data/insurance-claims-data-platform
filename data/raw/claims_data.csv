@@ -1,0 +1,5 @@
+claim_id,policy_id,claim_type,claim_amount,claim_date,claim_status
+CL001,P001,Hospital,75000,2026-07-01,Approved
+CL002,P002,Death,500000,2026-07-02,Pending
+CL003,P003,Accident,25000,2026-07-03,Rejected
+CL004,P004,Hospital,90000,2026-07-05,Approved
