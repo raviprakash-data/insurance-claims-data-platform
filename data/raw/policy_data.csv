@@ -1,0 +1,5 @@
+policy_id,customer_id,policy_type,premium_amount,start_date,status
+P001,C001,Health,25000,2026-01-10,Active
+P002,C002,Life,50000,2026-02-15,Active
+P003,C003,Vehicle,15000,2026-03-01,Expired
+P004,C004,Health,30000,2026-03-20,Active
